@@ -5,7 +5,7 @@
  */
 function asc_directory_filters_taxonomy_default_vocabularies() {
   return array(
-    'appointment' => array(
+    'appointments' => array(
       'name' => 'Appointments',
       'description' => '',
       'help' => '',
